@@ -1,4 +1,4 @@
-# Multi-Container Fibonacci Calculator
+<img width="2439" height="877" alt="Screenshot From 2025-08-06 11-53-47" src="https://github.com/user-attachments/assets/8083a9e1-99e4-468c-bada-48416be58282" /># Multi-Container Fibonacci Calculator
 
 A deliberately over-engineered Fibonacci sequence calculator built with a microservices architecture to demonstrate multi-container Docker deployment on AWS Elastic Beanstalk.
 
@@ -13,7 +13,9 @@ This application calculates Fibonacci sequence values at given indices. While th
 
 ## 🏗️ Architecture
 
-![ProjectArchitecture](/home/szidzse/Pictures/Screenshots)
+![ProjectArchitecture]()
+<img width="2439" height="877" alt="Screenshot From 2025-08-06 11-53-47" src="https://github.com/user-attachments/assets/2b7cebf7-f71f-40aa-8bd0-c05f58122257" />
+
 
 The application consists of multiple services:
 
