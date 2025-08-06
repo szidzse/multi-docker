@@ -15,6 +15,7 @@ This application calculates Fibonacci sequence values at given indices. While th
 
 <img width="2439" height="877" alt="Screenshot From 2025-08-06 11-53-47" src="https://github.com/user-attachments/assets/2b7cebf7-f71f-40aa-8bd0-c05f58122257" />
 
+
 The application consists of multiple services:
 
 ### Frontend (React Client)
@@ -101,14 +102,6 @@ The application uses the following environment variables:
 - `PGDATABASE`: PostgreSQL database name
 - `PGPASSWORD`: PostgreSQL password
 - `PGPORT`: PostgreSQL port
-
-### Docker Images
-
-The application builds and uses the following Docker images:
-- `szidzse/multi-client-up`: React frontend
-- `szidzse/multi-nginx-up`: Nginx reverse proxy
-- `szidzse/multi-server-up`: Express.js backend
-- `szidzse/multi-worker-up`: Background worker
 
 ## 📊 How It Works
 
